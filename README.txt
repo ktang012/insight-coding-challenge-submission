@@ -6,4 +6,4 @@ No external libraries are used other than the defaults:
 Example usage:
 `python3 rolling_median.py path_to_input.txt path_to_output.txt`
 
-There is a bottleneck in finding the median.
+There is a bottleneck in finding the median. The solution is naive and a bit rushed.
